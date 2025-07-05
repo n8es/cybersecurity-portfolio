@@ -11,13 +11,6 @@ This mobile application is a guide for users following the Banting diet. It help
 *   **Nutritional Value Search:** Users can search for a food item to get its nutritional information.
 *   **BMI Calculator:** The app includes a BMI calculator that takes into account gender, height, and weight to determine if the user is in a healthy weight range.
 
-## Screenshots
+## Tech Stack
 
-![Banting App Screenshot](./Screenshot 2019-09-04 at 20.58.08.png)
-![Banting App Screenshot](./Screenshot 2019-09-04 at 20.58.47.png)
-![Banting App Screenshot](./Screenshot 2019-09-04 at 20.59.06.png)
-![Banting App Screenshot](./Screenshot 2019-09-04 at 20.59.24.png)
-![Banting App Screenshot](./Screenshot 2019-09-04 at 21.00.07.png)
-![Banting App Screenshot](./Screenshot 2019-09-04 at 21.00.35.png)
-![Banting App Screenshot](./Screenshot 2019-09-04 at 21.01.02.png)
-![Banting App Screenshot](./Screenshot 2019-09-04 at 21.01.39.png)
+This app was created with the Flutter framework, using Provider for state management and sqflite for database storage.
