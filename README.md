@@ -41,4 +41,4 @@ I also have experience in mobile app development. You can find my app projects i
 ## Contact
 
 *   **Email:** n8essential@gmail.com
-*   **LinkedIn:** (Your LinkedIn Profile URL)
+*   **LinkedIn:** www.linkedin.com/in/nathan-stainbank-b84508373
