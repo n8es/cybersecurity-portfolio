@@ -34,9 +34,9 @@ This project showcases my ability to conduct a vulnerability assessment. I ident
 
 I also have experience in mobile app development. You can find my app projects in their own repositories:
 
-*   **[Banting App](link-to-your-repo)**
-*   **[Drinks App](link-to-your-repo)**
-*   **[Food Recipe App](link-to-your-repo)**
+*   **[Banting App](./Apps/banting-app)**
+*   **[Drinks App](./Apps/Drinks App)**
+*   **[Food Recipe App](./Apps/Food vRecipe)**
 
 ## Contact
 
